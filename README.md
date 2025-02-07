@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate student specializing in Data Science and Artificial Intelligence, with skills in programming, machine learning, and data analysis. I am dedicated to leveraging data and AI to solve complex challenges and drive innovation across various fields.
+Student with a strong passion for Machine Learning, Artificial Intelligence, Data Science, Data Analysis, and Software Engineering.
 
 
 ## 🌐 Socials:
