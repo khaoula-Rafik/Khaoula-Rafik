@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student with a strong passion for Machine Learning, Artificial Intelligence, Data Science, Data Analysis, and Software Engineering.
+Data Science and AI Engineer
 
 
 ## 🌐 Socials:
